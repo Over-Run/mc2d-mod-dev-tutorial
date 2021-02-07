@@ -1,0 +1,8 @@
+# The modid
+modid=examplemod
+# The mod main entrypoint
+main=com.examplemod.ExampleMod
+# The mod name (Optional)
+name=Example Mod
+# The mod version (Optional)
+version=1.0.0

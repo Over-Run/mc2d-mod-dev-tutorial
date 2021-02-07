@@ -1,0 +1,11 @@
+site_name: Minecraft2D Mod 开发教程
+theme: readthedocs
+nav:
+  - Minecraft2D Mod 开发教程: index.md
+  - 配置开发环境: configure.md
+  - 模组信息: modinfo.md
+  - 添加一个方块: block.md
+  - 调试你的模组: debug.md
+markdown_extensions:
+  - toc:
+      permalink: "#"
